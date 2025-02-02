@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "learn react",
+      "description": "start on the module",
+      "deadline": "2025-1-1",
+      "priority": "high",
+      "status": "In Progress",
+      "Assignee": "Mary"
+    },
+    {
+      "id": 2,
+      "title": "Cook for the visitors",
+      "description": "buy ingredients",
+      "deadline": "2025-1-4",
+      "priority": "low",
+      "status": "To do",
+      "Assignee": "Joe"
+    },
+    {
+      "id": 3,
+      "title": "Go to a bookshop",
+      "description": "get the let them book",
+      "deadline": "2025-1-7",
+      "priority": "high",
+      "status": "In Progress",
+      "Assignee": "Jane"
+    },
+    {
+      "id": 4,
+      "title": "Do some workouts",
+      "description": "do some pilates",
+      "deadline": "2025-1-10",
+      "priority": "low",
+      "status": "To do",
+      "Assignee": "Ben"
+    },
+    {
+      "id": 5,
+      "title": "Run a 100 mile",
+      "description": "run from shakes estate",
+      "deadline": "2025-1-12",
+      "priority": "medium",
+      "status": "To do",
+      "Assignee": "Alice"
+    },
+    {
+      "id": 6,
+      "title": "Walk coco the dog",
+      "description": "play fetch with him",
+      "deadline": "2025-1-14",
+      "priority": "medium",
+      "status": "Completed",
+      "Assignee": "John"
+    }
+  ]
+}
